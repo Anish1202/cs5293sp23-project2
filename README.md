@@ -23,6 +23,19 @@ The main file of the project is project2.py, which accepts multiple --ingredient
 * -use command 'python project2.py --n 5 --ingredient paprika --ingredient banana --ingredient "rice krispies" '
 * -' pipenv run python -m pytest ' to run tests
 
+### **External Links :**
+scikit
+
+https://scikit-learn.org/stable/
+
+Pytest
+
+https://docs.pytest.org/en/7.2.x/
+
+Pandas
+
+https://pandas.pydata.org/
+
 ### **Functions:**
 **1.load_data():** The load_data() method is a function that reads the yummly.json file and returns its contents in a Python dictionary format.
 
