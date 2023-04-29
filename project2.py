@@ -45,7 +45,7 @@ def find_similar_recipes(args, vectorizer, clf, df):
 
 
 def write_to_file( data):
-    with open('../cs5293sp23-project21/output.json', 'w') as f:
+    with open('output.json', 'w') as f:
         json.dump(data, f, indent=4)
     print(json.dumps(data))
 
